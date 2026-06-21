@@ -15,8 +15,8 @@ Le joueur retourne des cartes deux par deux pour retrouver des paires identiques
 
 Le design final combine les besoins de deux personas définis lors de la phase de scénarimage :
 
-- **Léa** (8 ans, ludique, recherche la compétition) → a inspiré la configuration par thème et le feedback de victoire
-- **M. Adisa Koffi** (67 ans, pratique sans pression de temps) → a inspiré la palette sobre, la typographie lisible, et l'absence de minuteur visible/stressant
+- **Enzo** (8 ans, ludique, recherche la compétition) → a inspiré la configuration par thème et le feedback de victoire
+- **M. Yvon GANDAHO** (67 ans, pratique sans pression de temps) → a inspiré la palette sobre, la typographie lisible, et l'absence de minuteur visible/stressant
 
 Principes de Gestalt appliqués : similarité (dos de carte uniforme), proximité (espacement de la grille), fermeture (carte qui se complète visuellement une fois retournée), figure-fond (carte active vs. plateau).
 
